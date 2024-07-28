@@ -10,6 +10,15 @@ namespace Actividad2
     {
         static void Main(string[] args)
         {
-        }
-    }
-}
+            //Numeros primos
+           
+
+            
+                    
+                
+
+     
+
+                }
+
+  
